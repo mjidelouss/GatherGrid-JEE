@@ -57,3 +57,17 @@ Select and leverage appropriate JEE technologies to fortify the project:
 🌐 Servlets & JSP: Handling web interactions effectively.
 
 ... and more, tailored to the project's unique demands.
+
+# What Versions I Worked With In Project
+
+🧰 Maven: version 3.9.5
+
+☕ Jakarta EE: version 9
+
+💼 Hibernate: version 6.2.7
+
+📦 JPA: version 6.0.0
+
+🌐 Servlets & JSP: version 1.0.2
+
+⚙️ TomCat: version 10.1.13
